@@ -29,3 +29,11 @@ An epic is a large user story that cannot be delivered as defined within a singl
 
 ### Use Case for Epic Stories:
 A team developing a webapp using agile methodology can keep some aspects of the projects as epics instead of breaking them down straight away into user stories. This can avoid confusion and limit the amount of 'details' that the team has to worry about until it is time to implement that part of the project. This would enable the team to focus on the tasks of the current sprint and not get ahead of themselves. 
+
+## How User Stories and Epic Stories Fit into Agile & Scrum:
+
+For a team working using Agile methodology, stories are something the team can commit to finish within a one or two-week sprint. Stories in this context are short requirements written from the perspective of a user.
+
+ Epics take longer to complete. Teams often have two or three epics they work to complete each quarter. Epics in this context are 'large bodies of work that can be broken down into a number of smaller tasks (called stories)'.
+ 
+ [Souce](https://www.atlassian.com/agile/project-management/epics-stories-themes)
